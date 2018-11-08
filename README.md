@@ -50,3 +50,4 @@ entire Bilinear_CNN (DD) model.</br>
 --> Optimizer = Momentum optimizer with 0.9 momentum</br>
 
 # bilinear-cnn
+# bilinear-cnn
